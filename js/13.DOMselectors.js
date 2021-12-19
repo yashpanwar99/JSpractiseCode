@@ -15,24 +15,24 @@ let m = document.getElementById('myFirst');
 // m=m.style.color='red';    // We can also style the elements using DOM Selectors
 // m.innerText='Yash Panwar';
 // m.innerHTML='<b>Yash Panwar</b>';
-// console.log(m);
+console.log(m);
 // console.log(m.innerText);
 
 
 //  QUERY SELECTORs
 
-let n = document.querySelector('#myFirst');
-n = document .querySelector('.child');
-n=document.querySelector('div');
-n=document.querySelector('b');
-n=document.querySelector('h1');
-n.style.color=('green');
-console.log(n);
+// let n = document.querySelector('#myFirst');
+// n = document .querySelector('.child');
+// n=document.querySelector('div');
+// n=document.querySelector('b');
+// n=document.querySelector('h1');
+// n.style.color=('green');
+// console.log(n);
 
 
 // Multi Element Selector
 
-let elems = document.getElementsByClassName('child');
-    elems = document.getElementsByTagName('div');
-console.log(elems);
+// let elems = document.getElementsByClassName('child');
+//     elems = document.getElementsByTagName('div');
+// console.log(elems);
 

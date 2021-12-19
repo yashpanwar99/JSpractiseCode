@@ -25,7 +25,7 @@ cont = document.querySelector('.container');
 // Accessing children's children
 
 let con = document.querySelector('div.container');
-// console.log(con.children[0].children);
+console.log(con.children[0].children);
 // console.log(con.children[0].children[0].children);
 
 // console.log(con.childNodes);
@@ -39,8 +39,8 @@ let con = document.querySelector('div.container');
 // console.log(con.children);
 // console.log(con.childElementCount);
 
-console.log(con.firstElementChild);
-console.log(con.firstElementChild.parentNode);
-console.log(con.firstElementChild.nextSibling);
-console.log(con.firstElementChild.nextElementSibling);
+// console.log(con.firstElementChild);
+// console.log(con.firstElementChild.parentNode);
+// console.log(con.firstElementChild.nextSibling);
+// console.log(con.firstElementChild.nextElementSibling);
 

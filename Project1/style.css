@@ -1,0 +1,18 @@
+#txt{
+    font-size: 80px;
+    font-weight: bold;
+    transform: translateX(150px);
+}
+
+#card1{
+    background-color: rgb(231, 197, 253);
+}
+
+#h5id{
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#h2id{
+    font-weight: bold;
+}
