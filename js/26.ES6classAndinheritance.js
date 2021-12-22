@@ -15,7 +15,7 @@ class Employee {
 
     joiningYear(){
         return 2021-this.experience;
-    }
+    }  
 
     // STATIC METHOD
     static add(a,b){
