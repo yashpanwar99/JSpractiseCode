@@ -11,6 +11,7 @@ function func1(){
            const error = true;
            if(!error){
             console.log('Your promises has been resolved'); 
+            resolve();
            }else{
             console.log('Your promise has not been resolved');
             reject('Sorry not fulfilled');
